@@ -1,0 +1,11 @@
+// console.log(1453);
+// console.log("Merhaba Ben Doğukan Kazan");
+// console.log("UDEMY DERSLERİ");
+// console.warn("UYARI : ");
+// console.info("BİLGİ");
+// console.error("HATA");
+// console.error("HATA");
+// console.error("HATA");
+// console.error("HATA");
+// console.error("HATA");
+// console.error("HATA");
