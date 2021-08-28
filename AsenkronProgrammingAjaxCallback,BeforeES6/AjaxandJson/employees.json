@@ -1,0 +1,30 @@
+[
+    {
+        "name":"Doğukan Kazan",
+        "department":"Bilişim",
+        "salary" : 3500
+    },
+    {
+        "name":"Emre Yüksel",
+        "department":"Bilişim",
+        "salary" : 4000
+    },
+    {
+        "name":"Yavuz Ercüment",
+        "department":"Pazarlama",
+        "salary" : 5000
+    },
+    {
+        "name":"Ayşe Ergül",
+        "department":"Muhasebe",
+        "salary" : 3500
+    },
+    {
+        "name":"Oğuzhan Ertümer",
+        "department":"Bilişim",
+        "salary" : 4000
+    }
+
+
+
+]
