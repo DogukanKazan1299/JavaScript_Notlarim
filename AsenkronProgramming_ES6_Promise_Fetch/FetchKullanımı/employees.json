@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Doğukan",
+        "age" :22,
+        "salary":4000
+    },
+    {
+        "name":"Alp",
+        "age" :21,
+        "salary":5000
+    },
+    {
+        "name":"Burak",
+        "age" :26,
+        "salary":3500
+    },
+    {
+        "name":"Ferdi",
+        "age" :21,
+        "salary":7000
+    }
+]

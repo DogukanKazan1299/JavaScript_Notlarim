@@ -1,0 +1,1 @@
+Merhaba Fetch Kullanımı txt dosyasından Fetch ile veri çekilecektir!
