@@ -10,15 +10,15 @@
 
 
 
-//json dosyasından veri çekmek;
-// function getJsonFile(){
-//     fetch("employees.json")
-//     .then(response=>response.json())
-//     .then(data=>console.log(data))
-//     .catch(err=>console.log(err));
-// }
+// json dosyasından veri çekmek;
+function getJsonFile(){
+    fetch("employees.json")
+    .then(response=>response.json())
+    .then(data=>console.log(data))
+    .catch(err=>console.log(err));
+}
 
-// getJsonFile();
+getJsonFile();
 
 
 

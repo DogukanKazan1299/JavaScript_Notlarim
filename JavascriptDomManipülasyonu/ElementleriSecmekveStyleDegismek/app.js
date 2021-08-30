@@ -1,33 +1,33 @@
 const element = document.querySelector("#clear-todos");
 
-//Element özelliklerini Görmek;
-// console.log(element.id);
-// console.log(element.name);
-// console.log(element.className);
-// console.log(element.classList);
-// console.log(element.textContent);
-// console.log(element.innerHTML);
-// console.log(element.href);
-// console.log(element.style);
+// Element özelliklerini Görmek;
+console.log(element.id);
+console.log(element.name);
+console.log(element.className);
+console.log(element.classList);
+console.log(element.textContent);
+console.log(element.innerHTML);
+console.log(element.href);
+console.log(element.style);
 
 
-//Style ve Element Özelliklerini Değiştirmek;
+// Style ve Element Özelliklerini Değiştirmek;
 
-// element.className="btn btn-primary";
-// element.textContent="Todoları SİL";
-// element.style.color = "#000";
-// element.style.marginLeft = "150px";
-// element.href="https://www.youtube.com.tr";
-// element.target="_blank";
-// element.innerHTML="<span style='color:white'>SİL</span>"
+element.className="btn btn-primary";
+element.textContent="Todoları SİL";
+element.style.color = "#000";
+element.style.marginLeft = "150px";
+element.href="https://www.youtube.com.tr";
+element.target="_blank";
+element.innerHTML="<span style='color:white'>SİL</span>"
 
 
 
-//List Elemanları İşlemleri;
-// const elements = document.querySelectorAll(".list-group-item");
-// elements.forEach(function(el){
-//     console.log(el);
-// })
+// List Elemanları İşlemleri;
+const elements = document.querySelectorAll(".list-group-item");
+elements.forEach(function(el){
+    console.log(el);
+})
 
 
 

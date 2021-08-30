@@ -13,7 +13,4 @@ const write = `İsim : ${name}\nSoyad:${surname}\nİşi:${job}`;
 
 const write2 = `PlayerName: ${player}\nPlayerSurname : ${playerSurname}`;
 
-
-
-
 console.log(write2);
